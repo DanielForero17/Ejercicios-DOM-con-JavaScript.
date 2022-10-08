@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/fondo5.jpg");
+    background-size: cover;
+}
+.formulario{
+    background-color: #0D236C;
+    padding: 20px;
+    width: 40%;
+    border-radius: 8px;
+    margin-left: 30%;
+    margin-top: 8%;
+    color: aliceblue;
+}

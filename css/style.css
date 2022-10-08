@@ -1,0 +1,36 @@
+/*index*/
+body{
+    background-image: url("../img/fondoi.jpg");
+}
+.tituloindex{
+    background-color: #D40D66;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 2%;
+    color: aliceblue;
+
+}
+.parrafoindex{
+    background-color: #D40D66;
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding: 8px;
+    color: aliceblue;
+}
+.list-group{
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 35%;
+    border-radius: 5px; 
+}
+.list-group-item{
+    background-color: #3F0876;
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+}
